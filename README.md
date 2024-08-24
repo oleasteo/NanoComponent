@@ -1,8 +1,16 @@
 # NanoComponent
 
+![NPM Version](https://img.shields.io/npm/v/@asteo/nano-component)
+![JSR Version](https://img.shields.io/jsr/v/%40asteo/nano-component)
+![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/%40asteo%2Fnano-component?color=green)
+![Static Badge](https://img.shields.io/badge/dependencies-0-green)
+![NPM License](https://img.shields.io/npm/l/%40asteo%2Fnano-component)
+
 **NanoComponent** is a very lightweight, vanilla TypeScript / JavaScript utility library that allows you to create and manage simple, reusable components in your web applications.
 This library allows for a straightforward way to split your HTML and JavaScript into small, manageable pieces without a full-fledged framework.
 It is best used with a bundler like `vite`.
+
+![NanoComponent Logo](assets/icon.512.jpg)
 
 ## Features
 

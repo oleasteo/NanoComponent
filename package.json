@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A minimal component library to compose vanilla HTML + JS from multiple files.",
   "license": "MIT",
-  "author": "Ole Reglitzki <ole@asteo.net>",
+  "author": "Ole Asteo <ole@pkg.asteo.net>",
   "repository": "gitlab:oleasteo/nano-component",
   "bugs": {
     "url": "https://gitlab.com/oleasteo/nano-component/-/issues"
