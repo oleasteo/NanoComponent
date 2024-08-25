@@ -7,18 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Added SVG logo.
+- Improved README.
+
 ## [1.0.3] - 2024-08-25
 
 ### Added
-- Add package meta information (keywords).
-- Tidy-up npm published files.
+- Added package meta-information (keywords).
+- Tidied up npm published files.
 
 ## [1.0.2] - 2024-08-24
 
 ### Added
 - Project Icon.
-- Improve README.
-- Update package meta information.
+- Improved README.
+- Updated package meta-information.
 
 ## [1.0.1] - 2024-08-24
 

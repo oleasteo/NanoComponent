@@ -1,16 +1,16 @@
 # NanoComponent
 
-![NPM Version](https://img.shields.io/npm/v/@asteo/nano-component)
-![JSR Version](https://img.shields.io/jsr/v/%40asteo/nano-component)
-![npm package minimized gzipped size](https://img.shields.io/bundlejs/size/%40asteo%2Fnano-component?color=green)
-![Static Badge](https://img.shields.io/badge/dependencies-0-green)
-![NPM License](https://img.shields.io/npm/l/%40asteo%2Fnano-component)
+[![NPM Version](https://img.shields.io/npm/v/@asteo/nano-component)](https://www.npmjs.com/package/@asteo/nano-component)
+[![JSR Version](https://img.shields.io/jsr/v/%40asteo/nano-component)](https://jsr.io/@asteo/nano-component)
+[![Minimized gzipped size](https://badgen.net/bundlephobia/minzip/@asteo/nano-component?color=green)](https://bundlephobia.com/package/@asteo/nano-component)
+[![Runtime Dependencies](https://img.shields.io/badge/dependencies-0-X?color=%233C1)](./package.json)
+[![NPM License](https://img.shields.io/npm/l/%40asteo%2Fnano-component?color=%233C1)](./LICENSE)
 
 **NanoComponent** is a very lightweight, vanilla TypeScript / JavaScript utility library that allows you to create and manage simple, reusable components in your web applications.
 This library allows for a straightforward way to split your HTML and JavaScript into small, manageable pieces without a full-fledged framework.
-It is best used with a bundler like `vite`.
+It is best used with a bundler like [vite](https://vitejs.dev/).
 
-![NanoComponent Logo](assets/icon.512.jpg)
+![NanoComponent Logo](assets/nano-component.o.svg)
 
 ## Features
 
@@ -18,7 +18,7 @@ It is best used with a bundler like `vite`.
 - **Component Properties**: Re-use component factories with different properties (non-reactive).
 - **Component as Property**: Use components or HTML fragments as component properties.
 - **Element References**: Easily get a JS reference to tagged DOM elements (e.g. mount slots).
-- **Lightweight**: No dependencies, pure vanilla TypeScript / JavaScript (4kB unminified with jsdocs ^^).
+- **Lightweight**: No dependencies, pure vanilla TypeScript, tiny package size.
 
 ## Not a feature
 
@@ -227,4 +227,4 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## License
 
-NanoComponent is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+NanoComponent is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.

@@ -1,6 +1,8 @@
 .idea/
-assets/
 node_modules/
+
+# inkscape SVG files (source files; .o.svg are considered output files)
+*.is.svg
 
 .gitattributes
 bun.lockb
