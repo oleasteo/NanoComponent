@@ -1,4 +1,6 @@
+.idea/
 assets/
 node_modules/
 
+.gitattributes
 bun.lockb
