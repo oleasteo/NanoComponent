@@ -1,6 +1,6 @@
 {
   "name": "@asteo/nano-component",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A minimal component library to compose vanilla HTML + JS from multiple files.",
   "license": "MIT",
   "author": "Ole Asteo <ole@pkg.asteo.net>",
